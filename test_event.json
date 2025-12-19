@@ -1,0 +1,12 @@
+{
+  "events": {
+    "topic": "demo-test",
+    "event_id": "DEMO-12345",
+    "timestamp": "2025-12-19T07:34:00Z",
+    "source": "video-demo",
+    "payload": {
+      "message": "This is a test event for demo",
+      "importance": "critical"
+    }
+  }
+}
